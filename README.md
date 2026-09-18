@@ -205,7 +205,7 @@ If you'd like a single at-a-glance tracker instead, consider adding a `personal-
 
 | Date | Module | Test | Band Score | Notes |
 |---|---|---|---|---|
-| _dd/mm/yyyy_ | Reading | Book 18, Test 1 | 5.5 | Weak in True/False/Not Given |
+| _18/09/2025_ | Reading | Book 18, Test 1 | 5.5 | Weak in True/False/Not Given |
 
 ---
 
