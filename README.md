@@ -1,12 +1,12 @@
 # 📚 IELTS Preparation Notes and Study Resources
 
-**A complete, self-tracked IELTS preparation repository** covering all four modules — Listening, Reading, Writing, and Speaking — with organized study material, curated resource links, sample questions and answers, personal assessment scores, and a structured preparation plan.
+**A complete, self-tracked IELTS preparation repository** — covering Listening, Reading, Writing, and Speaking with study notes, sample questions and answers, self-assessment tracking, and curated resource links.
+
+🔗 Repository: [github.com/UmarBytes/IELTS-NOTES](https://github.com/UmarBytes/IELTS-NOTES)
 
 ![IELTS](https://img.shields.io/badge/Exam-IELTS-blue)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![Study Notes](https://img.shields.io/badge/Type-Self--Study%20Notes-brightgreen)
-
-**Maintained by:** _Your Name_ · **Last Updated:** _Month Year_
 
 ---
 
@@ -20,7 +20,6 @@
 - [IELTS Speaking](#ielts-speaking)
 - [Study Material and Resource Links](#study-material-and-resource-links)
 - [Personal Assessment Scores](#personal-assessment-scores)
-- [Preparation Planning](#preparation-planning)
 - [Personal Notes](#personal-notes)
 - [How to Use This Repository](#how-to-use-this-repository)
 - [Contributing](#contributing)
@@ -30,213 +29,205 @@
 
 ## 📖 About This Repository
 
-This repository is a personal **IELTS preparation notebook**, built to track everything needed for a structured IELTS study routine — from understanding question types in each module to practicing real sample questions, reviewing model answers, and monitoring band score progress over time.
+This repository is a personal **IELTS preparation notebook** covering all four IELTS modules — **Listening, Reading, Writing, and Speaking**. It includes question-type breakdowns, study and preparation plans, sample questions with model answers, vocabulary (collocations and idioms), mock tests, and a running log of practice-test band scores.
 
-It's organized around the four official IELTS modules — **Listening, Reading, Writing, and Speaking** — so anyone (including future me) can quickly find the right notes, practice material, or answer key without digging through unrelated files.
+It's organized module by module so both the repo owner and anyone else preparing for IELTS can quickly find the right notes, practice material, or sample answer.
 
 ---
 
 ## 🗂️ Repository Structure
 
 ```
-IELTS-Preparation-Notes/
-├── 01-Listening/
-│   ├── question-types.md
-│   ├── spelling-key.md
-│   ├── personal-assessment.md
-│   └── practice-question-types.md
-├── 02-Reading/
-│   ├── question-types.md
-│   └── personal-assessment.md
-├── 03-Writing/
-│   ├── question-types.md
-│   ├── mock-tests.md
-│   ├── task2-sample-questions.md
-│   ├── task1-solutions.md
-│   └── task2-solutions.md
-├── 04-Speaking/
-│   ├── question-types.md
-│   ├── preparation-planning.md
-│   ├── sample-questions.md
-│   ├── part1-qna.md
-│   ├── part2-cue-cards.md
-│   ├── part3-qna.md
-│   ├── collocations.md
-│   ├── idioms.md
-│   └── mock-test.md
-├── study-material/
-├── study-material-links.md
-├── personal-assessment-scores.md
-├── preparation-plan.md
-├── personal-notes.md
+IELTS-NOTES/
+├── Listening/
+│   ├── IELTS_LISTENING.pdf                          → question types + weaknesses + score log
+│   ├── IELTS Listening Spelling Key.pdf
+│   ├── Listening Planning.pdf                       → study plan + resources
+│   ├── THE-BAND-9-LISTENING-DIAGNOSTIC-KIT.pdf       → self-diagnostic guide
+│   └── IELTS-Listening-Multiple-Choice-and-Map-Questions-Made-Simple.pdf
+├── Reading/
+│   ├── IELTS_READING.pdf                            → question types + tips + score log
+│   └── IELTS Reading Planning.pdf                   → study plan + resource links
+├── Writing/
+│   ├── Links.txt                                    → curated Task 1 chart videos
+│   ├── Mock Tests/                                  → full timed mock attempts
+│   ├── Sample Part 2 Questions/                     → Task 2 prompts by type + vocab
+│   ├── Task 01/                                     → solved Task 1 reports + templates
+│   └── Task 02/                                     → solved Task 2 essays, by question type
+├── Speaking/
+│   ├── Complete_Speaking_Test.pdf                   → Parts 1, 2 & 3 sample Q&A
+│   ├── Collocation.pdf
+│   ├── IDIOMS.pdf
+│   └── Sample Speaking Questions/                   → photo collection of real questions
 └── README.md
 ```
-
-> 💡 Update the folder and file names above to match your actual repository, then point the links in each section below to the correct paths.
 
 ---
 
 ## 🎧 IELTS Listening
 
-Notes, spelling references, and personal performance tracking for the IELTS Listening module.
+📁 [Browse the full Listening folder](https://github.com/UmarBytes/IELTS-NOTES/tree/main/Listening)
 
 ### Types of Questions in IELTS Listening
-Overview of all listening question formats (form completion, matching, multiple choice, map/plan labelling, etc.).
-📄 [`01-Listening/question-types.md`](./01-Listening/question-types.md)
+Covers question formats and the most common mistakes (question-type errors, missed instructions, spelling, vocabulary, accents, connected speech).
+📄 [`IELTS_LISTENING.pdf`](https://github.com/UmarBytes/IELTS-NOTES/blob/main/Listening/IELTS_LISTENING.pdf)
 
 ### IELTS Listening Spelling Key
-A reference sheet of commonly misspelled words and spelling rules that affect Listening band scores.
-📄 [`01-Listening/spelling-key.md`](./01-Listening/spelling-key.md)
+A quick-reference sheet for spelling accuracy, one of the most common ways marks are lost in Listening.
+📄 [`IELTS Listening Spelling Key.pdf`](https://github.com/UmarBytes/IELTS-NOTES/blob/main/Listening/IELTS%20Listening%20Spelling%20Key.pdf)
+
+### Listening Study and Preparation Plan
+A time-boxed daily plan (active listening with TED Talks/BBC, targeted practice via E2 IELTS and British Council mock tests).
+📄 [`Listening Planning.pdf`](https://github.com/UmarBytes/IELTS-NOTES/blob/main/Listening/Listening%20Planning.pdf)
 
 ### IELTS Listening Personal Assessment
-Logged practice test scores and section-by-section error analysis for Listening.
-📄 [`01-Listening/personal-assessment.md`](./01-Listening/personal-assessment.md)
+Practice-test band scores are logged directly inside the question-types file above (by Cambridge book and test number). For a structured self-diagnostic pass, use the diagnostic kit below.
+📄 [`THE-BAND-9-LISTENING-DIAGNOSTIC-KIT.pdf`](https://github.com/UmarBytes/IELTS-NOTES/blob/main/Listening/THE-BAND-9-LISTENING-DIAGNOSTIC-KIT.pdf) — identify your exact weak areas in 30 minutes
 
-### IELTS Listening Practice: Multiple Question Types
-Practice sets covering multiple-choice, matching, and other mixed question types together.
-📄 [`01-Listening/practice-question-types.md`](./01-Listening/practice-question-types.md)
+### Practice: Multiple Choice and Map Questions
+A focused guide to the two question types students lose the most points on.
+📄 [`IELTS-Listening-Multiple-Choice-and-Map-Questions-Made-Simple.pdf`](https://github.com/UmarBytes/IELTS-NOTES/blob/main/Listening/IELTS-Listening-Multiple-Choice-and-Map-Questions-Made-Simple.pdf)
 
 ---
 
 ## 📘 IELTS Reading
 
-Notes and personal tracking for the IELTS Reading module.
+📁 [Browse the full Reading folder](https://github.com/UmarBytes/IELTS-NOTES/tree/main/Reading)
 
 ### Types of Questions in IELTS Reading
-A breakdown of all IELTS Reading question types — True/False/Not Given, matching headings, summary completion, and more.
-📄 [`02-Reading/question-types.md`](./02-Reading/question-types.md)
+Covers question types (starting with sentence completion), common mistakes, and a step-by-step approach (skim → predict → locate → confirm).
+📄 [`IELTS_READING.pdf`](https://github.com/UmarBytes/IELTS-NOTES/blob/main/Reading/IELTS_READING.pdf)
 
 ### IELTS Reading Personal Assessment
-Logged Reading practice test scores with timing and accuracy notes per question type.
-📄 [`02-Reading/personal-assessment.md`](./02-Reading/personal-assessment.md)
+The same file above also holds a detailed, per-passage practice log — timing, correct answers, and band score for each attempted Cambridge test.
+📄 [`IELTS_READING.pdf`](https://github.com/UmarBytes/IELTS-NOTES/blob/main/Reading/IELTS_READING.pdf)
+
+### Reading Study and Preparation Plan
+A study plan built around real articles (The Guardian, Aeon Essays) for extensive reading, plus Cambridge IELTS practice books under timed exam conditions.
+📄 [`IELTS Reading Planning.pdf`](https://github.com/UmarBytes/IELTS-NOTES/blob/main/Reading/IELTS%20Reading%20Planning.pdf)
 
 ---
 
 ## ✍️ IELTS Writing
 
-Notes, mock tests, and sample solutions for Writing Task 1 and Task 2.
+📁 [Browse the full Writing folder](https://github.com/UmarBytes/IELTS-NOTES/tree/main/Writing)
 
 ### Types of Questions in IELTS Writing
-Overview of Task 1 (report/letter) and Task 2 (essay) question categories.
-📄 [`03-Writing/question-types.md`](./03-Writing/question-types.md)
+Task 1 formats (line graph, bar chart, pie chart, table, process/sequence diagram, maps) and Task 2 formats (opinion, discussion, advantage/disadvantage, problem/solution, direct/two-part question) are each covered through a how-to template — see the Task 1 and Task 2 template links below.
+📁 [`Task 01/Template_How_to_Write/`](https://github.com/UmarBytes/IELTS-NOTES/tree/main/Writing/Task%2001/Template_How_to_Write) — Task 1 chart and diagram templates
 
 ### Writing Mock Tests
-Full timed mock writing tests used for practice.
-📄 [`03-Writing/mock-tests.md`](./03-Writing/mock-tests.md)
+Two full, timed mock attempts covering both Task 1 and Task 2.
+📁 [`Mock Tests/`](https://github.com/UmarBytes/IELTS-NOTES/tree/main/Writing/Mock%20Tests)
 
 ### Sample Writing Task 2 Questions
-A collection of Task 2 essay prompts across common topics (education, technology, environment, etc.).
-📄 [`03-Writing/task2-sample-questions.md`](./03-Writing/task2-sample-questions.md)
+22 real Task 2 prompts sorted by question type (opinion, discussion, direct question, cause and solution), plus an official-style sample-tasks PDF and a vocabulary/phrases cheat sheet.
+📁 [`Sample Part 2 Questions/`](https://github.com/UmarBytes/IELTS-NOTES/tree/main/Writing/Sample%20Part%202%20Questions)
+📄 [`ielts-academic-writing-sample-tasks-2023.pdf`](https://github.com/UmarBytes/IELTS-NOTES/blob/main/Writing/Sample%20Part%202%20Questions/ielts-academic-writing-sample-tasks-2023.pdf)
+📄 [`RT1_Tips.txt`](https://github.com/UmarBytes/IELTS-NOTES/blob/main/Writing/Sample%20Part%202%20Questions/RT1_Tips.txt) — key phrases and vocabulary for describing charts
 
 ### IELTS Writing Task 1 Solutions
-Model answers and structure templates for Task 1 reports and letters.
-📄 [`03-Writing/task1-solutions.md`](./03-Writing/task1-solutions.md)
+Dozens of fully written Task 1 reports covering line graphs, bar charts, pie charts, maps, tables, and processes.
+📁 [`Task 01/`](https://github.com/UmarBytes/IELTS-NOTES/tree/main/Writing/Task%2001)
 
 ### IELTS Writing Task 2 Solutions
-Model essays with band-scoring notes for Task 2 prompts.
-📄 [`03-Writing/task2-solutions.md`](./03-Writing/task2-solutions.md)
+Full sample essays, organized by question type, each paired with a reusable template:
+
+| Essay Type | Sample Essays | Template |
+|---|---|---|
+| Opinion Essay | [Folder](https://github.com/UmarBytes/IELTS-NOTES/tree/main/Writing/Task%2002/Opinion%20Essasy) | [Template](https://github.com/UmarBytes/IELTS-NOTES/blob/main/Writing/Task%2002/Opinion%20Essasy/Template_Opinion_Essay_%28VIP%29.pdf) |
+| Discussion (Discuss Both Views) | [Folder](https://github.com/UmarBytes/IELTS-NOTES/tree/main/Writing/Task%2002/Discussoin) | [Template](https://github.com/UmarBytes/IELTS-NOTES/blob/main/Writing/Task%2002/Discussoin/Template_DISCUSSIONOPINION_ESSAY.pdf) |
+| Advantage / Disadvantage | [Folder](https://github.com/UmarBytes/IELTS-NOTES/tree/main/Writing/Task%2002/Adv%20%26%20Dis%20adv) | [Template](https://github.com/UmarBytes/IELTS-NOTES/blob/main/Writing/Task%2002/Adv%20%26%20Dis%20adv/Templlate_ADVANTAGE__DISADVANTAGE_ESSAY.pdf) |
+| Advantage / Disadvantage with Opinion | [Folder](https://github.com/UmarBytes/IELTS-NOTES/tree/main/Writing/Task%2002/Adv%20%26%20Dis%20Adv%20with%20Opinion) | [Template](https://github.com/UmarBytes/IELTS-NOTES/blob/main/Writing/Task%2002/Adv%20%26%20Dis%20Adv%20with%20Opinion/Template_Advantage__Disadvantage_With_Opinion.pdf) |
+| Causes and Solution | [Folder](https://github.com/UmarBytes/IELTS-NOTES/tree/main/Writing/Task%2002/Causes%20%26%20Solution) | [Template](https://github.com/UmarBytes/IELTS-NOTES/blob/main/Writing/Task%2002/Causes%20%26%20Solution/Template_Problem_Cases__Solution.pdf) |
+| Direct / Two-Part Question | [Folder](https://github.com/UmarBytes/IELTS-NOTES/tree/main/Writing/Task%2002/Direct%20Question) | [Template](https://github.com/UmarBytes/IELTS-NOTES/blob/main/Writing/Task%2002/Direct%20Question/Template_Two_Parts_Essay_.pdf) |
 
 ---
 
 ## 🗣️ IELTS Speaking
 
-Everything needed to prepare for all three parts of the Speaking test.
+📁 [Browse the full Speaking folder](https://github.com/UmarBytes/IELTS-NOTES/tree/main/Speaking)
 
-### Types of Questions in the Speaking Test
-An overview of the Speaking test format and what each part evaluates.
-📄 [`04-Speaking/question-types.md`](./04-Speaking/question-types.md)
+### Complete Speaking Test: Parts 1, 2 and 3 with Sample Answers
+A 76-page resource covering the Speaking test format end to end — Part 1 (introduction/interview), Part 2 (cue card long turn), and Part 3 (two-way discussion) — with full sample answers across dozens of topics. This single file covers question types, sample questions, and complete mock speaking tests.
+📄 [`Complete_Speaking_Test.pdf`](https://github.com/UmarBytes/IELTS-NOTES/blob/main/Speaking/Complete_Speaking_Test.pdf)
 
-### Speaking Preparation Planning
-How to approach Speaking prep, including a practice schedule and test-day plan.
-📄 [`04-Speaking/preparation-planning.md`](./04-Speaking/preparation-planning.md)
-
-### Sample Speaking Questions
-A general bank of speaking questions across topics for warm-up practice.
-📄 [`04-Speaking/sample-questions.md`](./04-Speaking/sample-questions.md)
-
-### Speaking Part 1: Sample Questions and Answers
-Common Part 1 introduction/interview questions with sample answers.
-📄 [`04-Speaking/part1-qna.md`](./04-Speaking/part1-qna.md)
-
-### Speaking Part 2: Sample Cue Cards and Answers
-Cue card topics with full sample long-turn answers.
-📄 [`04-Speaking/part2-cue-cards.md`](./04-Speaking/part2-cue-cards.md)
-
-### Speaking Part 3: Sample Questions and Answers
-Discussion-style questions with sample extended answers.
-📄 [`04-Speaking/part3-qna.md`](./04-Speaking/part3-qna.md)
+### Sample Speaking Questions (Photo Collection)
+Additional real speaking-test questions collected as photos.
+📁 [`Sample Speaking Questions/`](https://github.com/UmarBytes/IELTS-NOTES/tree/main/Speaking/Sample%20Speaking%20Questions)
 
 ### Useful Collocations for Speaking
-Topic-wise collocations to sound more natural and boost lexical resource scores.
-📄 [`04-Speaking/collocations.md`](./04-Speaking/collocations.md)
+Topic-based collocations with example sentences, to sound more natural and improve lexical resource.
+📄 [`Collocation.pdf`](https://github.com/UmarBytes/IELTS-NOTES/blob/main/Speaking/Collocation.pdf)
 
 ### Useful Idioms for Speaking
-A curated list of idioms suitable for natural use in speaking responses.
-📄 [`04-Speaking/idioms.md`](./04-Speaking/idioms.md)
+A list of idioms with meanings and situational usage.
+📄 [`IDIOMS.pdf`](https://github.com/UmarBytes/IELTS-NOTES/blob/main/Speaking/IDIOMS.pdf)
 
-### Complete Speaking Mock Test
-A full mock speaking test combining Parts 1, 2, and 3.
-📄 [`04-Speaking/mock-test.md`](./04-Speaking/mock-test.md)
+### Speaking Preparation Planning
+A dedicated Speaking study plan isn't in the repo yet — for now, follow the same time-boxed approach used in the [Listening](https://github.com/UmarBytes/IELTS-NOTES/blob/main/Listening/Listening%20Planning.pdf) and [Reading](https://github.com/UmarBytes/IELTS-NOTES/blob/main/Reading/IELTS%20Reading%20Planning.pdf) plans, paired with regular practice from the Complete Speaking Test above.
 
 ---
 
 ## 🔗 Study Material and Resource Links
 
-### Study Material
-Notes, PDFs, and reference files used across all four modules.
-📁 [`study-material/`](./study-material/)
+Curated from the planning notes across this repo, plus well-known official IELTS resources.
 
-### Study Material Links
-Curated external resources — websites, YouTube channels, and practice test sources.
-
-| Resource | Module | Type | Link |
+| Resource | Best For | Type | Link |
 |---|---|---|---|
-| _Resource name_ | Listening / Reading / Writing / Speaking | Website / Video / PDF | _Add link_ |
+| British Council – Free Practice Tests | Listening | Website | [Link](https://takeielts.britishcouncil.org/takeielts/prepare/free-ielts-englishpractice-tests/listening) |
+| British Council English | All modules | YouTube Channel | [Link](https://www.youtube.com/@BritishCouncilEnglish) |
+| E2 IELTS | Listening, Writing, Speaking | YouTube Channel | [Link](https://www.youtube.com/@E2IELTS) |
+| BBC Learning English | Listening | Website | [Link](https://www.bbc.co.uk/learningenglish) |
+| TED Talks | Listening | Website | [Link](https://www.ted.com/talks) |
+| The Guardian – International Edition | Reading | Website | [Link](https://www.theguardian.com/international) |
+| Aeon Essays | Reading | Website | [Link](https://aeon.co/essays) |
+| Cambridge IELTS Practice Tests (Books 10–20) | Reading, Listening | Book Series | — |
+| IELTS Buddy – Writing Task 1 Samples | Writing | Website | [Link](https://www.ieltsbuddy.com/ielts-writing-task-1-samples.html) |
+| IELTS Liz – Sample Chart for Task 1 | Writing | Website | [Link](https://ieltsliz.com/ielts-sample-chart-for-writing-task-1/) |
+| IELTS Liz | All modules | YouTube Channel | [Link](https://www.youtube.com/@ieltsliz) |
+
+**Task 1 chart tutorial videos** (originally saved in [`Writing/Links.txt`](https://github.com/UmarBytes/IELTS-NOTES/blob/main/Writing/Links.txt)) — covering bar charts, pie charts, line graphs, and process diagrams:
+- [youtu.be/O5eb1uWsLrU](https://youtu.be/O5eb1uWsLrU)
+- [youtu.be/XATlmM286wg](https://youtu.be/XATlmM286wg)
+- [youtu.be/cTWXaLX2L6Y](https://youtu.be/cTWXaLX2L6Y)
+- [youtu.be/1PfIr5trddo](https://youtu.be/1PfIr5trddo)
 
 ---
 
 ## 📊 Personal Assessment Scores
 
-Overall band score tracking across all four modules and practice attempts.
-📄 [`personal-assessment-scores.md`](./personal-assessment-scores.md)
+Band scores from practice tests are currently tracked inline, inside the module notes:
+- **Listening** — score log inside [`IELTS_LISTENING.pdf`](https://github.com/UmarBytes/IELTS-NOTES/blob/main/Listening/IELTS_LISTENING.pdf)
+- **Reading** — per-passage score log inside [`IELTS_READING.pdf`](https://github.com/UmarBytes/IELTS-NOTES/blob/main/Reading/IELTS_READING.pdf)
 
-| Date | Module | Practice Test | Band Score | Target Band | Notes |
-|---|---|---|---|---|---|
-| _dd/mm/yyyy_ | Listening | _Test name_ | _e.g. 6.5_ | _7.0_ | _Weak in map labelling_ |
+If you'd like a single at-a-glance tracker instead, consider adding a `personal-assessment-scores.md` at the repo root using a table like this:
 
----
-
-## 🗓️ Preparation Planning
-
-The overall study timeline, weekly targets, and revision schedule across all modules.
-📄 [`preparation-plan.md`](./preparation-plan.md)
-
-| Week | Focus Area | Goals |
-|---|---|---|
-| _Week 1_ | _Listening + Reading basics_ | _Complete question-type review_ |
+| Date | Module | Test | Band Score | Notes |
+|---|---|---|---|---|
+| _dd/mm/yyyy_ | Reading | Book 18, Test 1 | 5.5 | Weak in True/False/Not Given |
 
 ---
 
 ## 📝 Personal Notes
 
-Miscellaneous personal reflections, mistakes to avoid, exam-day tips, and reminders.
-📄 [`personal-notes.md`](./personal-notes.md)
+Personal reflections and reminders are currently embedded within the module files rather than a single notes file — for example, the "Common Weaknesses" list in `IELTS_LISTENING.pdf` and the vocabulary tips in `RT1_Tips.txt`. Feel free to add a standalone `personal-notes.md` at the repo root if you'd rather keep these in one place going forward.
 
 ---
 
 ## 🚀 How to Use This Repository
 
-1. Start with the **question types** file for the module you're studying.
-2. Review the **sample questions and answers** for that module.
-3. Attempt practice questions, then log your score in **Personal Assessment Scores**.
-4. Follow the **Preparation Planning** file to stay on schedule.
-5. Revisit **Personal Notes** regularly to avoid repeating past mistakes.
+1. Pick a module — start with the **question types** file for that module.
+2. Follow the module's **study/preparation plan** for a structured routine.
+3. Work through **sample questions and model answers** for that module.
+4. Log your practice-test scores to track improvement over time.
+5. Revisit **collocations, idioms, and templates** regularly to reinforce vocabulary and structure.
 
 ---
 
 ## 🤝 Contributing
 
-This is primarily a personal study repository, but suggestions (better resources, corrections to sample answers, etc.) are welcome via Issues or Pull Requests.
+This is primarily a personal study repository, but suggestions — corrections, better resources, or additional templates — are welcome via Issues or Pull Requests.
 
 ---
 
@@ -246,6 +237,6 @@ This repository is intended for personal study and reference. Feel free to fork 
 
 ---
 
-⭐ If these notes help your own IELTS prep, consider starring this repository.
+⭐ If these notes help your own IELTS prep, consider starring the repository.
 
-> 💡 **Discoverability tip:** Add these as repository **topics** (Settings → Topics) so the repo shows up in relevant GitHub searches: `ielts`, `ielts-preparation`, `ielts-notes`, `ielts-speaking`, `ielts-writing`, `ielts-reading`, `ielts-listening`, `self-study`, `exam-preparation`, `english-test-prep`.
+> 💡 **Discoverability tip:** Add these as repository **topics** (Settings → Topics) so the repo surfaces in relevant GitHub searches: `ielts`, `ielts-preparation`, `ielts-notes`, `ielts-speaking`, `ielts-writing`, `ielts-reading`, `ielts-listening`, `self-study`, `exam-preparation`.
