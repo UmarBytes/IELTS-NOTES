@@ -1,6 +1,6 @@
 # 📚 IELTS Preparation Notes and Study Resources
 
-**A complete, self-tracked IELTS preparation repository** — covering Listening, Reading, Writing, and Speaking with study notes, sample questions and answers, self-assessment tracking, and curated resource links.
+**A complete, self-tracked IELTS preparation repository** —> covering Listening, Reading, Writing, and Speaking with study notes, sample questions and answers, self-assessment tracking, and curated resource links.
 
 🔗 Repository: [github.com/UmarBytes/IELTS-NOTES](https://github.com/UmarBytes/IELTS-NOTES)
 
