@@ -10,7 +10,7 @@
 
 ---
 
-## 📑 Table of Contents
+## 📑 Table of Content
 
 - [About This Repository](#about-this-repository)
 - [Repository Structure](#repository-structure)
